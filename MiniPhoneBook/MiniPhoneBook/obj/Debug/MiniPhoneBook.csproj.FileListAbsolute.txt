@@ -89,3 +89,7 @@ E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\obj\Debug\MiniPhoneBook.csproj.
 E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\obj\Debug\MiniPhoneBook.csproj.CopyComplete
 E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\obj\Debug\MiniPhoneBook.dll
 E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\obj\Debug\MiniPhoneBook.pdb
+E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\bin\EntityFramework.dll
+E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\bin\EntityFramework.SqlServer.dll
+E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\bin\EntityFramework.xml
+E:\Git Hub\PhoneBook\MiniPhoneBook\MiniPhoneBook\bin\EntityFramework.SqlServer.xml
